@@ -1,6 +1,6 @@
 # NewsShorts
  Created a News APP using React Native which is used to create cross-platform iOS and Android applications using JavaScript.
-s Javascript , React Native, NewsAPI , EXPO
+ Javascript , React Native, NewsAPI , EXPO is used
 
 • Designed Layout and UI of the APP and Implemented Dark Mode.
 
